@@ -1,1 +1,13 @@
-
+ody {background-color:#F9C1DA;text-align:justify; font-size:18px;}
+h1{text-align: center;background-color: #F78BBD;color:#fcfefe;}
+h3{text-align: justify;color:#F9C1DA}
+b{color:rgb(0, 0, 0);font-size:18px;}
+i{color:rgb(0, 0, 0); font: size 18px;}
+header,footer{background-color:#ffffff;color:#fcfefe;text-align:center;font-size:20px;}
+main{background-color: #fcfefe;}
+.primeiroparagrafo{text-align: justify;font-size:18px;border:black solid 5px;padding:10px;margin:10px}
+#logotipo{width: 15%;height: 15%;}
+#lista{display: inline-block;}
+nav a {color:rgb(0, 0, 0)}
+nav li{text-transform:uppercase;}
+#lista2 {display:inline-block;}
